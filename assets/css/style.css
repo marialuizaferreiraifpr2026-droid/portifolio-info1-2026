@@ -1,1 +1,14 @@
 p { font-family: Arial, sans-serif; font-size: 14px; }
+header { 
+        background-color: rgb(90, 149, 226);
+}
+h1 { color: aliceblue;}
+nav { background-color: rgb(255, 136, 0);}
+h2 { color:rgb(24, 24, 184)}
+main {background-color: gray;}
+section { background-color: rgb(255, 208, 0);}
+h3 {color:black}
+article {background-color: rgb(42, 190, 121);}
+aside {background-color: rgb(174, 111, 233);}
+p {color: aliceblue;}
+footer { background-color: rgb(71, 100, 129);}
