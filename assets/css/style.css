@@ -6,7 +6,10 @@ header {
         margin: 10px;
         color: aliceblue;
 }
-nav { background-color: rgb(255, 136, 0);}
+nav { background-color: rgb(255, 136, 0);
+      border: 5px solid rgb(45, 99, 134);
+      padding: ;
+}
 main {background-color: gray;}
 section { background-color: rgb(255, 208, 0);}
 article {background-color: rgb(42, 190, 121);}
