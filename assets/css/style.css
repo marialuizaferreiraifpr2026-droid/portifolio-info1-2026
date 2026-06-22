@@ -26,16 +26,16 @@ section { background-color: rgb(255, 208, 0);
           background-clip: content-box;
 }
 article {background-color: rgb(42, 190, 121);
-         border: 2px dotted rgb(22, 80, 22);
-         padding: 8px rgb(42, 190, 121);
-         margin:5px rgb(255, 208, 0); ;
-         
+         border: 3px dotted rgb(22, 80, 22);
+         padding: 10px rgb(42, 190, 121);
+         margin: 10px rgb(255, 208, 0); ;
+         color: black;
 }
 aside {background-color: rgb(174, 111, 233);
-        border: 10px solid rgb(159, 162, 163);
+        border: 10px solid rgb(244, 247, 248);
          background-clip: content-box;
         padding: 5px rgb(241, 240, 243);
-        margin: 10px  aliceblue;
+        margin: 10px  rgb(191, 193, 196);
         background-clip: content-box;
 }
 footer { background-color: rgb(32, 48, 65); 
