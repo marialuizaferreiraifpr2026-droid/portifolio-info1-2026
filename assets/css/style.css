@@ -34,15 +34,13 @@ aside {background-color: rgb(174, 111, 233);
         border: 10px solid rgb(159, 162, 163);
         padding: 5px rgb(174, 111, 233);
         margin: 10px  aliceblue;
-        color: aliceblue;
         background-clip: content-box;
 }
 p {color: aliceblue;}
 footer { background-color: rgb(32, 48, 65); border: 10px solid lightblue;
-         border: 10px solid lightblue;
-        padding: 5px;
+         border: 10px solid rgb(180, 189, 192);
+        padding: 5px rgb(248, 239, 239);
         margin: 10px;
-        color: aliceblue;
         background-clip: content-box;
          
 }
