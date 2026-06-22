@@ -8,7 +8,7 @@ header {
         background-clip: content-box;
 }
 nav { background-color: rgb(255, 136, 0);
-      border: 5px solid rgb(28, 58, 78);
+      border: 5px solid rgb(78, 131, 167);
       padding: 5px;
       margin: 10px;
       background-clip: content-box;
@@ -28,6 +28,7 @@ section { background-color: rgb(255, 208, 0);
 article {background-color: rgb(42, 190, 121);
          border: 2px dotted rgb(22, 80, 22);
          padding: 8px rgb(42, 190, 121);
+         margin:5px rgb(255, 208, 0); ;
          
 }
 aside {background-color: rgb(174, 111, 233);
@@ -37,7 +38,6 @@ aside {background-color: rgb(174, 111, 233);
         margin: 10px  aliceblue;
         background-clip: content-box;
 }
-p {color: aliceblue;}
 footer { background-color: rgb(32, 48, 65); 
         border: 8px solid lightblue;
         padding: 10px rgb(248, 239, 239);
