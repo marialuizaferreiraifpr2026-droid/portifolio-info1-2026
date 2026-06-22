@@ -12,7 +12,7 @@ nav { background-color: rgb(255, 136, 0);
       margin: 10px;
       background-clip: content-box;
 }
-main {background-color: rgb(230, 237, 250);
+main {background-color: rgb(202, 218, 248);
       border: 10px solid rgb(153, 177, 214);
       padding: 20px;
       margin: 20px;
@@ -25,14 +25,14 @@ section { background-color: rgb(255, 220, 64);
           background-clip: content-box;
 }
 article {background-color: rgb(42, 190, 121);
-         border: 3px dotted rgb(22, 80, 22);
-         padding: 10px;
+         border: 2px dotted rgb(24, 100, 81);
+         padding: 5px;
          margin: 10px;
          color: black;
          background-clip: content-box;
 }
 aside {background-color: rgb(174, 111, 233);
-        border: 8px solid rgb(204, 195, 195);
+        border: 8px solid rgb(153, 177, 214);
          background-clip: content-box;
         padding: 5px;
         margin: 10px;
