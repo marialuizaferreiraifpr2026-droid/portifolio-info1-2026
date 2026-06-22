@@ -13,14 +13,14 @@ nav { background-color: rgb(255, 136, 0);
       margin: 10px;
       background-clip: content-box;
 }
-main {background-color: rgb(247, 229, 229);
-      border: 10px solid rgb(204, 195, 195);
+main {background-color: rgb(230, 237, 250);
+      border: 10px solid rgb(153, 177, 214);
       padding: 20px;
       margin: 20px;
       background-clip: content-box;
 }
 section { background-color: rgb(255, 220, 64);
-          border: 10px solid rgb(204, 195, 195);
+          border: 8px solid rgb(153, 177, 214);
           padding: 15px;
           margin: 10px;
           background-clip: content-box;
@@ -33,7 +33,7 @@ article {background-color: rgb(42, 190, 121);
          background-clip: content-box;
 }
 aside {background-color: rgb(174, 111, 233);
-        border: 10px solid rgb(204, 195, 195);
+        border: 8px solid rgb(204, 195, 195);
          background-clip: content-box;
         padding: 5px;
         margin: 10px;
@@ -41,9 +41,9 @@ aside {background-color: rgb(174, 111, 233);
         color: aliceblue;
 }
 footer { background-color: rgb(32, 48, 65); 
-        border: 8px solid rgb(204, 195, 195);
+        border: 8px solid rgb(153, 177, 214);
         background-clip: content-box;
-        padding: 35px;
+        padding: 30px;
         margin: 10px;
         background-clip: content-box;
         color: aliceblue;
