@@ -2,6 +2,10 @@ p { font-family: Arial, sans-serif; font-size: 14px; }
 header { 
         background-color: rgb(90, 149, 226);
 }
+p.one {
+  border-style: solid;
+  border-width: 10px;
+}
 h1 { color: aliceblue;}
 nav { background-color: rgb(255, 136, 0);}
 h2 { color:rgb(24, 24, 184)}
