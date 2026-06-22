@@ -20,7 +20,7 @@ main {background-color: rgb(250, 241, 241);
       background-clip: content-box;
 }
 section { background-color: rgb(255, 208, 0);
-          border: 10px solid rgb(114, 114, 114);
+          border: 10px solid rgb(184, 183, 185);
           padding: 15px;
           margin: 10px;
           background-clip: content-box;
@@ -33,14 +33,15 @@ article {background-color: rgb(42, 190, 121);
          background-clip: content-box;
 }
 aside {background-color: rgb(174, 111, 233);
-        border: 10px solid  rgb(174, 111, 233);
+        border: 10px solid  rgb(184, 183, 185);
          background-clip: content-box;
         padding: 5px;
         margin: 10px;
         background-clip: content-box;
+        color: aliceblue;
 }
 footer { background-color: rgb(32, 48, 65); 
-        border: 8px solid lightblue;
+        border: 8px solid rgb(184, 183, 185);
         background-clip: content-box;
         padding: 10px;
         margin: 10px;
