@@ -11,7 +11,11 @@ nav { background-color: rgb(255, 136, 0);
       padding: 5px;
       margin: 10px;
 }
-main {background-color: gray;}
+main {background-color: rgb(226, 226, 226);
+      border: 10px solid grey;
+      padding: 20px;
+      margin: 20px;
+}
 section { background-color: rgb(255, 208, 0);}
 article {background-color: rgb(42, 190, 121);}
 aside {background-color: rgb(174, 111, 233);}
