@@ -5,27 +5,42 @@ header {
         padding: 5px;
         margin: 10px;
         color: aliceblue;
+        background-clip: content-box;
 }
 nav { background-color: rgb(255, 136, 0);
       border: 5px solid rgb(28, 58, 78);
       padding: 5px;
       margin: 10px;
 }
-main {background-color: rgb(226, 226, 226);
-      border: 10px solid grey;
-      padding: 20px;
-      margin: 20px;
+main {background-color: rgb(196, 196, 196);
+      border: 10px solid rgb(214, 171, 171);
+      padding: 20px rgb(226, 226, 226);
+      margin: 20px rgb(226, 226, 226);
+       background-clip: content-box;
 }
 section { background-color: rgb(255, 208, 0);
-          border: 10px solid gray;
-          padding: 15px rgb(255, 208, 0);
+          border: 10px solid rgb(255, 208, 0);
+          padding: 15px gray;
           margin: 10px rgb(255, 208, 0);
 }
 article {background-color: rgb(42, 190, 121);
-         border: 10px dotted rgb(22, 80, 22);
-         padding:10px rgb(42, 190, 121);
+         border: 8px dotted rgb(22, 80, 22);
+         padding: 10px rgb(42, 190, 121);
          
 }
-aside {background-color: rgb(174, 111, 233);}
+aside {background-color: rgb(174, 111, 233);
+        border: 10px solid rgb(159, 162, 163);
+        padding: 5px rgb(174, 111, 233);
+        margin: 10px  aliceblue;
+        color: aliceblue;
+        background-clip: content-box;
+}
 p {color: aliceblue;}
-footer { background-color: rgb(71, 100, 129);}
+footer { background-color: rgb(32, 48, 65); border: 10px solid lightblue;
+         border: 10px solid lightblue;
+        padding: 5px;
+        margin: 10px;
+        color: aliceblue;
+        background-clip: content-box;
+         
+}
