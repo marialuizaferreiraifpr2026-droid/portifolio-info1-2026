@@ -16,8 +16,12 @@ main {background-color: rgb(226, 226, 226);
       padding: 20px;
       margin: 20px;
 }
-section { background-color: rgb(255, 208, 0);}
-article {background-color: rgb(42, 190, 121);}
+section { background-color: rgb(255, 208, 0);
+          border: 10px solid gray;
+}
+article {background-color: rgb(42, 190, 121);
+         border: 5px dotted rgb(22, 80, 22);
+}
 aside {background-color: rgb(174, 111, 233);}
 p {color: aliceblue;}
 footer { background-color: rgb(71, 100, 129);}
