@@ -19,7 +19,7 @@ main {background-color: rgb(212, 225, 248);
       background-clip: content-box;
 }
 section { background-color: rgb(255, 220, 64);
-          border: 8px solid rgb(188, 202, 223;
+          border: 8px solid rgb(188, 202, 223);
           padding: 15px;
           margin: 10px;
           background-clip: content-box;
@@ -40,7 +40,7 @@ aside {background-color: rgb(174, 111, 233);
         color: aliceblue;
 }
 footer { background-color: rgb(32, 48, 65); 
-        border: 8px solid rgb(188, 202, 223;
+        border: 8px solid rgb(188, 202, 223);
         background-clip: content-box;
         padding: 25px;
         margin: 10px;
